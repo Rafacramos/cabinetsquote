@@ -97,4 +97,4 @@ export default function Home() {
         <p>&copy; 2023 Light It Up Painting. All rights reserved. | San Diego, CA</p>
     </footer>
 </body>
-</html>
+
